@@ -15,3 +15,6 @@ const request = axios.get(url);
     payload : request
   };
 }
+
+
+//TODO:  this is redux
